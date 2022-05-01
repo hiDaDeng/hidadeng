@@ -3,9 +3,12 @@
 ### I'm DaDeng, a PhD candidate from Harbin Institute of Technology, China.  
 
 - I'm major in management science.
+
 - I'm famililar with Python programming
+
 - I'm interesting in text analysis(unstructual data) now.
-- I'm looking forward to collaborate with other content creator
+
+  
 
 <br>
 
@@ -19,14 +22,9 @@
 
 <br>
 
-# Blog posts
+# Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-
-# Contact me
-
-
-
 
