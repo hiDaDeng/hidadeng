@@ -34,6 +34,6 @@
 - [转载 | 从符号到嵌入：计算社会科学的两种文本表示](https://hidadeng.github.io/blog/from_sysbol_to_embeddings_in_computational_social_science/)
 - [豆瓣影评 | 探索词向量妙处](https://hidadeng.github.io/blog/douban_w2v/)
 - [文献汇总 | 词嵌入 与 社会科学中的偏见(态度)](https://hidadeng.github.io/blog/literatureembeddings/)
-
+- [长期招募小伙伴](https://hidadeng.github.io/blog/we_need_you/)
 <br>
 
