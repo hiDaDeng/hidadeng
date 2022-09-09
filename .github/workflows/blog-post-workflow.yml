@@ -19,6 +19,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://hidadeng.github.io/post/index.xml"
+          feed_list: "https://hidadeng.github.io/index.xml"
           # 获取最新 10 篇文章
           max_post_count: 10
