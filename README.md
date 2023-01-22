@@ -24,7 +24,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-- [视频课程 | 支持开票 | Python实证指标构建与文本分析](https://hidadeng.github.io/blog/management_python_course/))
+- [视频课程 | Python实证指标构建与文本分析](https://hidadeng.github.io/blog/management_python_course/)
 - [置顶推荐 | 社科(经管)文本分析快速指南](https://hidadeng.github.io/blog/the_text_analysis_list_about_ms/)
 - [置顶推荐 | Python文本分析与会计(视频)](https://hidadeng.github.io/blog/accountingtext/)
 - [转载 | 大数据时代下社会科学研究方法的拓展——基于词嵌入技术的文本分析的应用](https://hidadeng.github.io/blog/wordembeddingsinsocialscience/)
