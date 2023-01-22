@@ -24,7 +24,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-- [2022暑期工作坊 | Python实证指标构建与文本分析](https://hidadeng.github.io/blog/2022_summer_workshop/)
+- [视频课程 | 支持开票 | Python实证指标构建与文本分析]([https://hidadeng.github.io/blog/2022_summer_workshop/](https://hidadeng.github.io/blog/management_python_course/))
 - [置顶推荐 | 社科(经管)文本分析快速指南](https://hidadeng.github.io/blog/the_text_analysis_list_about_ms/)
 - [置顶推荐 | Python语法入门(含视频)](https://hidadeng.github.io/blog/dadeng_python_basic_tutorial/)
 - [置顶推荐 | Python文本分析与会计(视频)](https://hidadeng.github.io/blog/accountingtext/)
