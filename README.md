@@ -1,6 +1,6 @@
 # Hi there, 
 
-### I'm DaDeng, a PhD candidate from Harbin Institute of Technology, China.  
+### I'm DaDeng, PhD candidate from Harbin Institute of Technology, China.  
 
 - I major in management science.
 - I'm famililar with Python programming
