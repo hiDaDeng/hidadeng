@@ -29,5 +29,6 @@
 - [LIST | 可供社科(经管)领域使用的数据集汇总](https://textdata.cn/blog/datasets_available_for_management_science/)
 - [LIST| 文本分析代码汇总](https://textdata.cn/blog/text_analysis_code_list_about_ms/)
 - [置顶推荐 | Python文本分析与会计(视频)](https://textdata.cn/blog/accountingtext/)
+- [文献&代码 | 使用Python计算语义品牌评分(Semantic Brand Score)](https://textdata.cn/blog/2024-04-12-semantic-brand-score/)
 <br>
 
